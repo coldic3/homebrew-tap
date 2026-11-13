@@ -3,8 +3,8 @@
 class Slipway < Formula
   desc "Local review station for AI-agent pull requests, promoted to GitHub after approval"
   homepage "https://github.com/coldic3/slipway"
-  url "https://github.com/coldic3/slipway/releases/download/v1.1.0/coldic3-slipway-1.1.0.tgz"
-  sha256 "79bdfd3d18c9f15a04ef464587126d26187d49b4232be7255003e7a9894cefaf"
+  url "https://github.com/coldic3/slipway/releases/download/v1.2.0/coldic3-slipway-1.2.0.tgz"
+  sha256 "f60960ed92945488991474ac3fbb6c4c79241206e5eb8e3af7c7a02bc4d9968a"
   license "MIT"
 
   depends_on "gitleaks"
